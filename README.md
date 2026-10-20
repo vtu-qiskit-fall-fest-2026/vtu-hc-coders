@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Coders** · Team ID `VTU-QFF-HC-0016` · Tier `Offline`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Coders)
+[⬆ Back to Top](#coders)
 
 </div>
